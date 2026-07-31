@@ -25,9 +25,19 @@ Passionate about writing clean, maintainable code, solving real-world business p
   
 ---
 
-## 📚 Education
-🎓 B.Tech in Information Technology – *Oriental College of Technology, Bhopal*  
-🎓 MERN Stack Development – *Sheryians Coding School, Bhopal*  
+## 🎓 Education
+
+### 🎓 Bachelor of Technology (B.Tech) – Information Technology
+**Oriental College of Technology, Bhopal**  
+📅 **2018 – 2022** | **CGPA:** 8.17
+
+---
+
+### 💻 MERN Full Stack Development
+**Sheryians Coding School, Bhopal**  
+📅 **2023 – 2024**
+
+Completed comprehensive training in the MERN stack, focusing on full-stack application development, REST APIs, authentication, database design, and real-world project implementation.
 
 ---
 
@@ -133,9 +143,7 @@ Passionate about writing clean, maintainable code, solving real-world business p
 - Implemented inventory management, order processing, and responsive UI.
 - Deployed and maintained the application on a production VPS environment.
 
-🌐 **Website:** [TOYOVO INDIA](https://toyovoindia.com)
-
-📱 **Android App:** [Google Play Store](https://play.google.com/store/apps/details?id=com.toyovoindia.app)
+🌐 **Website:** [TOYOVO INDIA](https://toyovoindia.com) | 📱 **Android App:** [Google Play Store](https://play.google.com/store/apps/details?id=com.toyovoindia.app)
 
 ---
 
@@ -150,9 +158,7 @@ Passionate about writing clean, maintainable code, solving real-world business p
 - Implemented real-time communication features and lead management workflows.
 - Optimized APIs and application performance for production deployment.
 
-🌐 **Live Website:** [GET RIGHT HOME](https://www.getrighthome.com)
-
-> 🔒 **Source Code:** Private Repository
+🌐 **Live Website:** [GET RIGHT HOME](https://www.getrighthome.com) | 🔒 **Source Code:** Private Repository
 
 ---
 
@@ -166,53 +172,44 @@ Passionate about writing clean, maintainable code, solving real-world business p
 - Implemented review management, property filtering, pagination, and secure authentication.
 - Deployed frontend and backend using Vercel and Render.
 
-🌐 **Live Website:** [JK PLOTS](https://jkplots.vercel.app)
-
-> 🔒 **Source Code:** Private Repository
+🌐 **Live Website:** [JK PLOTS](https://jkplots.vercel.app) | 🔒 **Source Code:** Private Repository
 
 ---
-## 🚀 Projects  
+## 💻 Personal Projects
 
-### 🏠 Real Estate Management System  
-Role-based property listing & appointment booking platform.  
-🔗 [Live Demo](https://realstatemanagementsystem.onrender.com) | 💻 [GitHub Repo](https://github.com/Kunalsahuji/RealStateManagementSystem)  
+### 🏠 Real Estate Management System
+**Full Stack MERN Application**
 
+Built a role-based property management platform featuring property listings, appointment booking, authentication, and an admin dashboard.
 
-
-### 🌐 Social Media Application  
-A social platform built with Node.js, Express, MongoDB, and authentication features.  
-🔗 [Live Demo](https://social-5krx.onrender.com/) | 💻 [GitHub Repo](https://github.com/Kunalsahuji/social-media-application)  
-
-
-### 💬 One-to-One Chat Application  
-Realtime chat app powered by **Socket.IO**, Express, and Node.js.  
-🔗 [Live Demo](https://onetoonechat-9t2j.onrender.com) | 💻 [GitHub Repo](https://github.com/Kunalsahuji/OneToOneChat)  
-
-
-### 📸 Photogram  
-Photo-sharing app built with **React, TypeScript, Firebase, and Uploadcare**.  
-🔗 [Live Demo](https://photogram-e566b.web.app) | 💻 [GitHub Repo](https://github.com/Kunalsahuji/photogram)  
+🌐 **Live Demo:** [Real Estate Management System](https://realstatemanagementsystem.onrender.com) | 💻 **GitHub Repository:** [RealStateManagementSystem](https://github.com/Kunalsahuji/RealStateManagementSystem)
 
 ---
 
-## 🎯 React Projects  
+### 🌐 Social Media Application
+**Full Stack Social Networking Platform**
 
-### ⚡ Dennis Front-End Project  
-Animated and feature-rich UI using **React, Framer Motion, and GSAP**.  
-💻 [GitHub Repo](https://github.com/Kunalsahuji/React-Frontend-Dennis)  
+Developed a social media platform with user authentication, post creation, likes, comments, and user profile management using the MERN stack.
+
+🌐 **Live Demo:** [Social Media Application](https://social-5krx.onrender.com/) | 💻 **GitHub Repository:** [Social Media Application](https://github.com/Kunalsahuji/social-media-application)
 
 ---
 
-## 🌟 Front-End Projects  
+### 💬 One-to-One Chat Application
+**Real-Time Chat Application**
 
-### 🧠 Brain Space  
-Interactive landing page using **HTML, CSS, JS, and GSAP ScrollTrigger**.  
-🔗 [Live Demo](https://kunalsahuji.github.io/brain-space/) | 💻 [GitHub Repo](https://github.com/Kunalsahuji/brain-space/)  
+Built a real-time messaging application using Socket.IO with secure user authentication and instant communication.
 
+🌐 **Live Demo:** [One-to-One Chat](https://onetoonechat-9t2j.onrender.com) | 💻 **GitHub Repository:** [OneToOneChat](https://github.com/Kunalsahuji/OneToOneChat)
 
-### 🎨 UnlimitedDesign  
-Sleek & modern portfolio-style landing page with animations and hover effects.  
-🔗 [Live Demo](https://kunalsahuji.github.io/Unlimited_Website/) | 💻 [GitHub Repo](https://github.com/Kunalsahuji/Unlimited_Website/)  
+---
+
+### 📸 Photogram
+**Photo Sharing Platform**
+
+Developed a photo-sharing application using React, TypeScript, Firebase, and Uploadcare with image upload and user authentication features.
+
+🌐 **Live Demo:** [Photogram](https://photogram-e566b.web.app) | 💻 **GitHub Repository:** [Photogram](https://github.com/Kunalsahuji/photogram)
 
 ---
 
