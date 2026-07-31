@@ -2,19 +2,27 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnUxd2EzcnVmZzZkYXNmeGM5ZGp2eHBqZGx6cmNoYWR6b2U3N2NldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif" style="width:100%;height:15vh;object-fit:cover;" />
 </p>
 
-<h1 align="center">👨‍💻 Kunal Sahu – Full Stack Developer (MERN)</h1>
-<p align="center">
-  Passionate MERN stack developer from Bhopal 🚀 | Focused on clean UI & scalable backend solutions
-</p>
+<h1 align="center">👨‍💻 Kunal Sahu – MERN Full Stack Developer</h1>
+
+---
+MERN Full Stack Developer with professional experience delivering production-ready web applications from development to deployment. I collaborate directly with clients to understand business requirements, design scalable solutions, and build end-to-end applications using React.js, Node.js, Express.js, and MongoDB.
+
+Experienced in developing real estate and e-commerce platforms, integrating secure payment gateways, REST APIs, Firebase services, authentication systems, and third-party integrations. Skilled in deploying and maintaining applications on VPS servers using Nginx, PM2, SSL, Git, Hostinger, GoDaddy, Render, and Vercel while ensuring performance, security, and reliability.
+
+Passionate about writing clean, maintainable code, solving real-world business problems, and continuously learning modern technologies to build scalable digital products.
 
 ---
 
-## 🛠 Tech Stack & Skills
-- **Frontend**: React, Redux, JavaScript, HTML, CSS, GSAP, Framer Motion  
-- **Backend**: Node.js, Express.js, ASP.NET, Firebase  
-- **Database**: MongoDB, SQL, Firebase  
-- **Tools & Others**: Git, Uploadcare, JWT, Notion  
+## 🚀 Professional Highlights
 
+- 💼 MERN Full Stack Developer at **Appzeto Pvt. Ltd.**
+- 🚀 Delivered **production-ready** web applications from development to deployment.
+- 🏡 Developed **Real Estate** and **E-commerce** platforms with modern, scalable architectures.
+- 💳 Integrated **PhonePe, PayU, Razorpay**, Firebase, Google Maps API, and other third-party services.
+- 🌐 Experienced in **VPS deployment**, **Nginx**, **PM2**, **SSL**, **Hostinger**, **GoDaddy**, **Render**, and **Vercel**.
+- 🤝 Worked directly with clients to gather requirements, plan features, and deliver business-focused solutions.
+- ⚡ Passionate about building secure, scalable, and high-performance full-stack applications.
+  
 ---
 
 ## 📚 Education
@@ -23,21 +31,146 @@
 
 ---
 
+## 🛠 Tech Stack
+
+### 💻 Frontend
+- React.js (Vite), JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- Redux Toolkit, GSAP, Framer Motion, Radix UI
+- Responsive Web Design
+
+### ⚙️ Backend
+- Node.js, Express.js
+- REST APIs, MVC Architecture
+- Authentication (JWT), Socket.IO
+
+### 🗄️ Database
+- MongoDB
+- Firebase / Firestore
+- SQL
+
+### 🚀 Deployment & DevOps
+- Hostinger VPS
+- Nginx
+- PM2
+- SSL Configuration
+- Git & GitHub
+- Render
+- Vercel
+- GoDaddy (Domain & DNS Management)
+
+### 🔗 Integrations
+- PhonePe Payment Gateway
+- PayU Payment Gateway
+- Razorpay
+- Firebase Cloud Messaging (FCM)
+- Google Maps API
+- Cloudinary
+
+### 🧰 Tools
+- VS Code
+- Postman
+- MongoDB Compass
+- GitHub Desktop
+- Notion
+
+### 💡 Programming Languages
+- JavaScript
+- SQL
+- Python
+- C
+- C++
+
+---
 ## 💼 Work Experience
 
-### 💼 Tudip Digital, Pune  
-🕒 Duration: 4 Months | Role: React Developer  
-- Built scalable and responsive UIs in React.  
-- Worked with real-world APIs & state management.  
+### 💼 MERN Full Stack Developer | Appzeto Pvt. Ltd.
+📍 Indore, Madhya Pradesh | 🗓️ Apr 2026 – Present
 
-### 💼 Corecard Pvt. Ltd., Bhopal  
-🕒 Internship Completed | Role: ASP.NET Developer  
-- Implemented backend services with C# & .NET.  
-- Integrated Azure AD for authentication.  
-- Contributed to financial web solutions.  
+- Developing and maintaining production-grade MERN stack web applications from development to deployment.
+- Collaborating directly with clients to understand business requirements, propose technical solutions, and deliver features aligned with project goals.
+- Building scalable REST APIs, responsive user interfaces, authentication systems, admin dashboards, and reusable application modules.
+- Integrating third-party services including **PhonePe, PayU, Razorpay, Firebase FCM, Google Maps API, and Cloudinary**.
+- Managing production deployments using **Hostinger VPS, Nginx, PM2, SSL, Git/GitHub, Render, Vercel, and GoDaddy**.
+- Optimizing application performance, debugging production issues, implementing security best practices, and maintaining application reliability.
+- Working closely with cross-functional teams throughout planning, development, testing, deployment, and post-release support.
 
 ---
 
+### 💼 Web Developer Intern | Lollarena Services
+📍 Bhopal, Madhya Pradesh | 🗓️ May 2025 – Jul 2025
+
+- Developed and customized responsive websites using HTML, CSS, JavaScript, and WordPress.
+- Built UI components with Elementor and customized themes and plugins to meet client requirements.
+
+---
+
+### 💼 Software Developer Intern | CoreCard Software India Pvt. Ltd.
+📍 Bhopal, Madhya Pradesh | 🗓️ Jul 2024 – Oct 2024
+
+- Developed backend modules using ASP.NET MVC and SQL.
+- Implemented authentication mechanisms including JWT and SSO.
+- Assisted in application deployment, integration, and maintenance using IIS.
+
+---
+
+### 💼 Associate Software Developer | Tudip Technologies Pvt. Ltd.
+📍 Pune, Maharashtra | 🗓️ Sep 2022 – Dec 2022
+
+- Developed responsive React.js components for a news application.
+- Integrated APIs and implemented reusable UI components following modern frontend practices.
+---
+
+## 🚀 Featured Projects
+
+### 🛒 TOYOVO INDIA
+**Production E-commerce Platform**
+
+**Tech Stack:** React.js (Vite), Node.js, Express.js, MongoDB, Tailwind CSS, PhonePe, PayU, Razorpay
+
+- Developed a production-ready e-commerce platform for web and Android users.
+- Built secure authentication, product management, shopping cart, order management, and admin dashboard.
+- Integrated multiple payment gateways including PhonePe, PayU, and Razorpay.
+- Implemented inventory management, order processing, and responsive UI.
+- Deployed and maintained the application on a production VPS environment.
+
+🌐 **Website:** [TOYOVO INDIA](https://toyovoindia.com)
+
+📱 **Android App:** [Google Play Store](https://play.google.com/store/apps/details?id=com.toyovoindia.app)
+
+---
+
+### 🏡 GET RIGHT HOME
+**Production Real Estate Platform**
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Google Maps API, Razorpay
+
+- Developed a complete real estate platform for buying, selling, and renting properties.
+- Built advanced property search with dynamic location filtering and Google Maps integration.
+- Developed admin and user dashboards with role-based authentication.
+- Implemented real-time communication features and lead management workflows.
+- Optimized APIs and application performance for production deployment.
+
+🌐 **Live Website:** [GET RIGHT HOME](https://www.getrighthome.com)
+
+> 🔒 **Source Code:** Private Repository
+
+---
+
+### 🏘 JK PLOTS
+**Modern Property Listing Platform**
+
+**Tech Stack:** React.js (Vite), Node.js, Express.js, MongoDB, Tailwind CSS, Radix UI
+
+- Built a modern property listing platform with a premium and responsive user experience.
+- Developed scalable backend APIs and optimized database queries.
+- Implemented review management, property filtering, pagination, and secure authentication.
+- Deployed frontend and backend using Vercel and Render.
+
+🌐 **Live Website:** [JK PLOTS](https://jkplots.vercel.app)
+
+> 🔒 **Source Code:** Private Repository
+
+---
 ## 🚀 Projects  
 
 ### 🏠 Real Estate Management System  
