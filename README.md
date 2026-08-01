@@ -1,230 +1,223 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnUxd2EzcnVmZzZkYXNmeGM5ZGp2eHBqZGx6cmNoYWR6b2U3N2NldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif" style="width:100%;height:15vh;object-fit:cover;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnUxd2EzcnVmZzZkYXNmeGM5ZGp2eHBqZGx6cmNoYWR6b2U3N2NldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">👨‍💻 Kunal Sahu – MERN Full Stack Developer</h1>
+<h1 align="center">👋 Hi, I'm Kunal Sahu</h1>
 
----
-MERN Full Stack Developer with professional experience delivering production-ready web applications from development to deployment. I collaborate directly with clients to understand business requirements, design scalable solutions, and build end-to-end applications using React.js, Node.js, Express.js, and MongoDB.
+<h3 align="center">
+Full Stack Developer • MERN Stack • Backend Enthusiast
+</h3>
 
-Experienced in developing real estate and e-commerce platforms, integrating secure payment gateways, REST APIs, Firebase services, authentication systems, and third-party integrations. Skilled in deploying and maintaining applications on VPS servers using Nginx, PM2, SSL, Git, Hostinger, GoDaddy, Render, and Vercel while ensuring performance, security, and reliability.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Building+Production-Ready+Web+Applications;Deploying+Scalable+Applications+on+Linux+Servers;Passionate+about+Clean+Code+and+Problem+Solving" />
+</p>
 
-Passionate about writing clean, maintainable code, solving real-world business problems, and continuously learning modern technologies to build scalable digital products.
-
----
-
-## 🚀 Professional Highlights
-
-- 💼 MERN Full Stack Developer at **Appzeto Pvt. Ltd.**
-- 🚀 Delivered **production-ready** web applications from development to deployment.
-- 🏡 Developed **Real Estate** and **E-commerce** platforms with modern, scalable architectures.
-- 💳 Integrated **PhonePe, PayU, Razorpay**, Firebase, Google Maps API, and other third-party services.
-- 🌐 Experienced in **VPS deployment**, **Nginx**, **PM2**, **SSL**, **Hostinger**, **GoDaddy**, **Render**, and **Vercel**.
-- 🤝 Worked directly with clients to gather requirements, plan features, and deliver business-focused solutions.
-- ⚡ Passionate about building secure, scalable, and high-performance full-stack applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kunalsahuji&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 👨‍💻 About Me
 
-### 💻 Frontend
-- React.js (Vite), JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
-- Redux Toolkit, GSAP, Framer Motion, Radix UI
-- Responsive Web Design
+I'm a **Full Stack MERN Developer** with hands-on experience building and deploying production-ready web applications. Currently working at **Appzeto Technologies**, I collaborate with clients to understand business requirements and transform them into scalable, high-performance solutions.
 
-### ⚙️ Backend
-- Node.js, Express.js
-- REST APIs, MVC Architecture
-- Authentication (JWT), Socket.IO
+My expertise covers the complete software development lifecycle—from designing responsive user interfaces to developing secure backend APIs, integrating third-party services, optimizing databases, and deploying applications on Linux-based production servers.
 
-### 🗄️ Database
-- MongoDB
-- Firebase / Firestore
-- SQL
-
-### 🚀 Deployment & DevOps
-- Hostinger VPS
-- Nginx
-- PM2
-- SSL Configuration
-- Git & GitHub
-- Render
-- Vercel
-- GoDaddy (Domain & DNS Management)
-
-### 🔗 Integrations
-- PhonePe Payment Gateway
-- PayU Payment Gateway
-- Razorpay
-- Firebase Cloud Messaging (FCM)
-- Google Maps API
-- Cloudinary
-
-### 🧰 Tools
-- VS Code
-- Postman
-- MongoDB Compass
-- GitHub Desktop
-- Notion
-
-### 💡 Programming Languages
-- JavaScript
-- SQL
-- Python
-- C
-- C++
+I enjoy solving real-world problems through clean architecture, maintainable code, and user-centric design while continuously exploring modern web technologies and best practices.
 
 ---
-## 💼 Work Experience
 
-### 💼 MERN Full Stack Developer | Appzeto Pvt. Ltd.
+# 🚀 Professional Snapshot
+
+- 💼 Full Stack Developer at **Appzeto Technologies**
+- 🚀 Developed and deployed production-grade MERN applications
+- 🌐 Experienced in VPS deployment using **Hostinger**, **Nginx**, **PM2**, **SSL**, and **GoDaddy Domain Management**
+- 💳 Integrated multiple payment gateways including **PhonePe**, **PayU**, and **Razorpay**
+- 📦 Built scalable REST APIs, authentication systems, admin dashboards, and inventory management solutions
+- 🤝 Worked directly with clients to gather requirements and deliver production-ready features
+- 📱 Developed responsive web applications and Android-ready platforms
+- 🔄 Experienced with Git, GitHub, Agile workflows, and collaborative development
+- 📚 Continuously learning and building modern full-stack applications
+
+---
+
+# 🛠 Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| 🎨 **Frontend** | React.js, Vite, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Redux Toolkit, GSAP, Framer Motion |
+| ⚙️ **Backend** | Node.js, Express.js, REST APIs, JWT Authentication, Socket.IO |
+| 🗄️ **Database** | MongoDB, Firebase, MySQL, SQL |
+| 🚀 **Deployment** | Linux, Hostinger VPS, Nginx, PM2, SSL, Vercel, Render, GoDaddy |
+| 🔗 **Integrations** | PhonePe, PayU, Razorpay, Firebase FCM, Google Maps API, Cloudinary |
+| 🧰 **Tools** | Git, GitHub, VS Code, Postman, MongoDB Compass, Notion, Figma |
+| 💡 **Languages** | JavaScript, TypeScript, Python, SQL, C, C++ |
+
+---
+
+# 💼 Work Experience
+
+## 🚀 Full Stack Developer | Appzeto Technologies
 📍 Indore, Madhya Pradesh | 🗓️ Apr 2026 – Present
 
-- Developing and maintaining production-grade MERN stack web applications from development to deployment.
-- Collaborating directly with clients to understand business requirements, propose technical solutions, and deliver features aligned with project goals.
-- Building scalable REST APIs, responsive user interfaces, authentication systems, admin dashboards, and reusable application modules.
-- Integrating third-party services including **PhonePe, PayU, Razorpay, Firebase FCM, Google Maps API, and Cloudinary**.
-- Managing production deployments using **Hostinger VPS, Nginx, PM2, SSL, Git/GitHub, Render, Vercel, and GoDaddy**.
-- Optimizing application performance, debugging production issues, implementing security best practices, and maintaining application reliability.
-- Working closely with cross-functional teams throughout planning, development, testing, deployment, and post-release support.
+Working as a **Full Stack MERN Developer**, building and maintaining production-grade web applications for clients across multiple domains. Responsible for the complete development lifecycle—from requirement analysis and UI implementation to backend development, deployment, and production support.
 
----
+### Key Responsibilities
 
-### 💼 Web Developer Intern | Lollarena Services
+- 🚀 Develop scalable full-stack applications using the MERN Stack.
+- 🤝 Collaborate directly with clients to understand business requirements and deliver customized solutions.
+- ⚙️ Design and develop secure REST APIs, authentication, and role-based access systems.
+- 💳 Integrate payment gateways including **PhonePe**, **PayU**, and **Razorpay**.
+- 🌍 Deploy and maintain applications on **Linux VPS** using **Hostinger**, **Nginx**, **PM2**, SSL, and domain management.
+- 📦 Build responsive admin dashboards, inventory management systems, and business workflows.
+- 🔍 Optimize application performance, API response time, and MongoDB queries.
+- 🐞 Debug production issues and ensure high application availability.
+- 🔄 Work with Git, GitHub, Agile workflows, and collaborative development practices.
+
+**Technologies:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Redux Toolkit • JWT • Nginx • PM2 • Linux • Git • PhonePe • PayU • Razorpay
+
+## 💼 Web Developer Intern | Lollarena Services
 📍 Bhopal, Madhya Pradesh | 🗓️ May 2025 – Jul 2025
 
 - Developed and customized responsive websites using HTML, CSS, JavaScript, and WordPress.
 - Built UI components with Elementor and customized themes and plugins to meet client requirements.
 
----
-
-### 💼 Software Developer Intern | CoreCard Software India Pvt. Ltd.
+## 💼 Software Developer Intern | CoreCard Software India Pvt. Ltd.
 📍 Bhopal, Madhya Pradesh | 🗓️ Jul 2024 – Oct 2024
 
-- Developed backend modules using ASP.NET MVC and SQL.
-- Implemented authentication mechanisms including JWT and SSO.
-- Assisted in application deployment, integration, and maintenance using IIS.
+- Developed backend modules using **ASP.NET MVC** and **C#**.
+- Worked with **SQL Server**, authentication systems, and enterprise applications.
+- Contributed to financial software solutions in a collaborative development environment.
 
----
+**Technologies:** ASP.NET MVC • C# • SQL Server • IIS • Azure AD
 
-### 💼 Associate Software Developer | Tudip Technologies Pvt. Ltd.
+
+## 💼 Associate Software Developer | Tudip Technologies Pvt. Ltd.
 📍 Pune, Maharashtra | 🗓️ Sep 2022 – Dec 2022
 
-- Developed responsive React.js components for a news application.
-- Integrated APIs and implemented reusable UI components following modern frontend practices.
+- Developed responsive user interfaces using **React.js**.
+- Integrated REST APIs and implemented reusable UI components.
+- Worked with state management and modern frontend development practices.
+- Collaborated with the development team to deliver production-ready features.
+
+**Technologies:** React.js • JavaScript • HTML • CSS • REST APIs • Git
+
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 TOYOVO INDIA
+## 🛒 TOYOVO INDIA
 **Production E-commerce Platform**
 
-**Tech Stack:** React.js (Vite), Node.js, Express.js, MongoDB, Tailwind CSS, PhonePe, PayU, Razorpay
+> Developed a production-ready e-commerce platform with secure authentication, inventory management, order processing, admin dashboard, and multi-payment integration.
 
-- Developed a production-ready e-commerce platform for web and Android users.
-- Built secure authentication, product management, shopping cart, order management, and admin dashboard.
-- Integrated multiple payment gateways including PhonePe, PayU, and Razorpay.
-- Implemented inventory management, order processing, and responsive UI.
-- Deployed and maintained the application on a production VPS environment.
+**Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • PhonePe • PayU • Razorpay
 
-🌐 **Website:** [TOYOVO INDIA](https://toyovoindia.com) | 📱 **Android App:** [Google Play Store](https://play.google.com/store/apps/details?id=com.toyovoindia.app)
+🌐 **Website:** [TOYOVO INDIA](https://www.toyovoindia.com) • 📱 **Android App:** [Google Play Store](https://play.google.com/store/apps/details?id=com.toyovo.user&pcampaignid=web_share)
 
 ---
 
-### 🏡 GET RIGHT HOME
+## 🏡 GET RIGHT HOME
 **Production Real Estate Platform**
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Google Maps API, Razorpay
+> Built a scalable real estate platform featuring property listing, appointment booking, role-based authentication, lead management, Google Maps integration, and responsive dashboards.
 
-- Developed a complete real estate platform for buying, selling, and renting properties.
-- Built advanced property search with dynamic location filtering and Google Maps integration.
-- Developed admin and user dashboards with role-based authentication.
-- Implemented real-time communication features and lead management workflows.
-- Optimized APIs and application performance for production deployment.
+**Tech:** React.js • Node.js • Express.js • MongoDB • Google Maps API • Socket.IO
 
-🌐 **Live Website:** [GET RIGHT HOME](https://www.getrighthome.com) | 🔒 **Source Code:** Private Repository
+🌐 **Website:** [GET RIGHT HOME](https://www.getrighthome.com) • 🔒 **Source Code:** Private Repository
 
 ---
 
-### 🏘 JK PLOTS
+## 🏘️ JK PLOTS
 **Modern Property Listing Platform**
 
-**Tech Stack:** React.js (Vite), Node.js, Express.js, MongoDB, Tailwind CSS, Radix UI
+> Developed a responsive property listing platform with advanced search, secure authentication, and optimized backend APIs.
 
-- Built a modern property listing platform with a premium and responsive user experience.
-- Developed scalable backend APIs and optimized database queries.
-- Implemented review management, property filtering, pagination, and secure authentication.
-- Deployed frontend and backend using Vercel and Render.
+**Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 
-🌐 **Live Website:** [JK PLOTS](https://jkplots.vercel.app) | 🔒 **Source Code:** Private Repository
-
----
-## 💻 Personal Projects
-
-### 🏠 Real Estate Management System
-**Full Stack MERN Application**
-
-Built a role-based property management platform featuring property listings, appointment booking, authentication, and an admin dashboard.
-
-🌐 **Live Demo:** [Real Estate Management System](https://realstatemanagementsystem.onrender.com) | 💻 **GitHub Repository:** [RealStateManagementSystem](https://github.com/Kunalsahuji/RealStateManagementSystem)
+🌐 **Live Website:** [JK PLOTS](https://jkplots.vercel.app) • 💻 **GitHub Repository:** [JK-Plots](https://github.com/Kunalsahuji/JK-Plots)
 
 ---
 
-### 🌐 Social Media Application
-**Full Stack Social Networking Platform**
+# 💻 Personal Projects
 
-Developed a social media platform with user authentication, post creation, likes, comments, and user profile management using the MERN stack.
+## 🏠 Real Estate Management System
 
-🌐 **Live Demo:** [Social Media Application](https://social-5krx.onrender.com/) | 💻 **GitHub Repository:** [Social Media Application](https://github.com/Kunalsahuji/social-media-application)
+Role-based property management platform with authentication, appointment booking, and admin dashboard.
 
----
-
-### 💬 One-to-One Chat Application
-**Real-Time Chat Application**
-
-Built a real-time messaging application using Socket.IO with secure user authentication and instant communication.
-
-🌐 **Live Demo:** [One-to-One Chat](https://onetoonechat-9t2j.onrender.com) | 💻 **GitHub Repository:** [OneToOneChat](https://github.com/Kunalsahuji/OneToOneChat)
+🔗 **Live:** [Real Estate Management System](https://realstatemanagementsystem.onrender.com) • **GitHub:** [Repository](https://github.com/Kunalsahuji/RealStateManagementSystem)
 
 ---
 
-### 📸 Photogram
-**Photo Sharing Platform**
+## 🌐 Social Media Application
 
-Developed a photo-sharing application using React, TypeScript, Firebase, and Uploadcare with image upload and user authentication features.
+Full-stack social networking platform with authentication, posts, likes, comments, and user profiles.
 
-🌐 **Live Demo:** [Photogram](https://photogram-e566b.web.app) | 💻 **GitHub Repository:** [Photogram](https://github.com/Kunalsahuji/photogram)
+🔗 **Live:** [Social Media Application](https://social-5krx.onrender.com/) • **GitHub:** [Repository](https://github.com/Kunalsahuji/social-media-application)
 
 ---
 
-## 🏆 Certifications
+## 💬 One-to-One Chat Application
 
-- 🥇 **MERN Full Stack Development**  
-  📜 **Sheryians Coding School**  
-  🔗 [View Certificate](https://drive.google.com/file/d/1Qiny9sW_H2U8yt3MjdpjmJXIDPbGFpre/view?usp=drivesdk)
+Real-time chat application built with Socket.IO and JWT-based authentication.
 
-- 💻 **C & C++ Programming**  
-  📜 **Programming Certification**  
-  🔗 [View Certificate](https://drive.google.com/file/d/1_2OXIITQvJlkNKc3N6Gi9hqlFPO-gsuz/view?usp=drivesdk)
+🔗 **Live:** [One-to-One Chat](https://onetoonechat-9t2j.onrender.com) • **GitHub:** [Repository](https://github.com/Kunalsahuji/OneToOneChat)
+
 ---
 
-## 🎓 Education
+## 📸 Photogram
 
-### 🎓 Bachelor of Technology (B.Tech) – Information Technology
+Photo-sharing application built using React, TypeScript, Firebase, and Uploadcare.
+
+🔗 **Live:** [Photogram](https://photogram-e566b.web.app) • **GitHub:** [Repository](https://github.com/Kunalsahuji/photogram)
+
+---
+
+## ⚡ Dennis Front-End Project
+
+Modern animated landing page built using React, GSAP, and Framer Motion.
+
+💻 **GitHub:** [Dennis Front-End](https://github.com/Kunalsahuji/React-Frontend-Dennis)
+
+---
+
+## 🧠 Brain Space
+
+Interactive landing page showcasing advanced animations using GSAP ScrollTrigger.
+
+🔗 **Live:** [Brain Space](https://kunalsahuji.github.io/brain-space/) • **GitHub:** [Repository](https://github.com/Kunalsahuji/brain-space)
+
+---
+
+## 🎨 UnlimitedDesign
+
+Modern portfolio-style landing page with engaging animations and responsive design.
+
+🔗 **Live:** [UnlimitedDesign](https://kunalsahuji.github.io/Unlimited_Website/) • **GitHub:** [Repository](https://github.com/Kunalsahuji/Unlimited_Website/)
+
+---
+
+# 🎓 Education
+
+### 🎓 Bachelor of Technology (Information Technology)
 **Oriental College of Technology, Bhopal**  
-📅 **2018 – 2022** | **CGPA:** 8.17
-
----
+📅 **2018 – 2022**
 
 ### 💻 MERN Full Stack Development
 **Sheryians Coding School, Bhopal**  
 📅 **2023 – 2024**
 
-Completed comprehensive training in the MERN stack, focusing on full-stack application development, REST APIs, authentication, database design, and real-world project implementation.
+---
 
---- 
+# 🏆 Certifications
 
-## 📫 Connect With Me
+- 🥇 **MERN Full Stack Development** — [View Certificate](https://drive.google.com/file/d/1Qiny9sW_H2U8yt3MjdpjmJXIDPbGFpre/view?usp=drivesdk)
+- 💻 **C & C++ Programming** — [View Certificate](https://drive.google.com/file/d/1_2OXIITQvJlkNKc3N6Gi9hqlFPO-gsuz/view?usp=drivesdk)
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-sahu-7688ba1b0">
@@ -254,7 +247,7 @@ Completed comprehensive training in the MERN stack, focusing on full-stack appli
 
 ---
 
-## ⚒️ Technologies & Tools
+# ⚒️ Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,tailwind,redux,git,github,vscode,postman,linux,nginx,docker,vercel,figma,python,mysql,c,cpp" />
@@ -303,66 +296,43 @@ Completed comprehensive training in the MERN stack, focusing on full-stack appli
 # 🚀 #100DaysOfMERN
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed%2020%20Days-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Posts-20-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Posts-20-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Project%20Based-orange?style=for-the-badge"/>
 </p>
 
-I started the **#100DaysOfMERN** challenge to strengthen my understanding of full-stack development by consistently sharing practical MERN concepts, code examples, and development insights.
+A collection of practical MERN Stack learning posts covering React, Node.js, Express.js, MongoDB, REST APIs, JWT Authentication, File Uploads, Middleware, and project-based development.
 
-Although I completed **20 days**, each post focuses on solving real-world development problems with beginner-friendly explanations and hands-on examples.
+🔗 **GitHub Repository:** [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)
 
-### 📚 Topics Covered
-
-- React.js Fundamentals
-- JavaScript Concepts
-- Node.js & Express.js
-- MongoDB
-- REST APIs
-- Authentication & JWT
-- File Uploads
-- Middleware
-- Project Architecture
-- Best Practices
-
-### 🔗 Explore the Series
-
-- 💻 **GitHub Repository:** [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)
-- 💼 **LinkedIn Posts:** [Kunal Sahu](https://linkedin.com/in/kunal-sahu-7688ba1b0)
+💼 **LinkedIn Series:** [Kunal Sahu](https://linkedin.com/in/kunal-sahu-7688ba1b0)
 
 ---
 
-## ✨ Quote of the Day
+# ✨ Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+# 🤝 Let's Connect & Collaborate
 
 <p align="center">
-  💼 Open to Full-Stack Development opportunities, Freelance projects, and Open Source collaborations.
+💼 Open to Full Stack Development opportunities, Freelance projects, and Open Source collaborations.
 </p>
 
 <p align="center">
-  If you have an interesting idea or project, let's build something amazing together! 🚀
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Opportunities-success?style=for-the-badge" />
+If you have an exciting idea or project, let's build something amazing together! 🚀
 </p>
 
 ---
+
+<p align="center">
+<strong>⭐ Thanks for visiting my profile! ⭐</strong>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kunalsahuji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-
-<p align="center">
-  <strong>Thanks for visiting my profile! ⭐</strong>
 </p>
