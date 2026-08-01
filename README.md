@@ -281,22 +281,21 @@ Completed comprehensive training in the MERN stack, focusing on full-stack appli
 
 <p align="center">
   <img
-    width="49%"
     src="https://github-readme-stats.vercel.app/api?username=Kunalsahuji&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="49%"
     alt="GitHub Stats"
   />
-
   <img
+    src="https://streak-stats.demolab.com?user=Kunalsahuji&theme=tokyonight&hide_border=true"
     width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalsahuji&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalsahuji&theme=react-dark&hide_border=true&bg_color=0D1117"
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalsahuji&theme=react-dark&bg_color=0D1117&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
