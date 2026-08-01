@@ -277,7 +277,6 @@ Completed comprehensive training in the MERN stack, focusing on full-stack appli
 </p>
 
 ---
----
 
 # 📊 GitHub Analytics
 
@@ -301,42 +300,69 @@ Completed comprehensive training in the MERN stack, focusing on full-stack appli
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 #100DaysOfMERN
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kunalsahuji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/badge/Status-Completed%2020%20Days-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Posts-20-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-orange?style=for-the-badge" />
 </p>
----
 
-## 📢 #100DaysOfMERN  
-![Status: Paused](https://img.shields.io/badge/Status-Paused-yellow?style=for-the-badge)  
-![Progress](https://img.shields.io/badge/Progress-20%2F100-blue?style=for-the-badge)
+I started the **#100DaysOfMERN** challenge to strengthen my understanding of full-stack development by consistently sharing practical MERN concepts, code examples, and development insights.
 
-I started a **#100DaysOfMERN** challenge to share daily posts on LinkedIn and GitHub covering full stack concepts in MERN (MongoDB, Express, React, Node).  
-Due to focusing on priorities, I paused the streak after **Day 20** — but the existing posts still provide **beginner-friendly, practical insights** into MERN development. 🚀  
+Although I completed **20 days**, each post focuses on solving real-world development problems with beginner-friendly explanations and hands-on examples.
 
-### ✅ What’s Included So Far:
-- 🔹 Topics like JSON, APIs, React hooks, Express middleware, JWT auth, Multer uploads, etc.  
-- 🔹 Each day includes code snippets, project-based examples, and explanations.  
-- 🔹 20 full days of valuable content, available on GitHub.  
+### 📚 Topics Covered
 
-### 📦 GitHub Repo for Posts:  
-🔗 [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)  
+- React.js Fundamentals
+- JavaScript Concepts
+- Node.js & Express.js
+- MongoDB
+- REST APIs
+- Authentication & JWT
+- File Uploads
+- Middleware
+- Project Architecture
+- Best Practices
 
-### 💼 LinkedIn Series:  
-🔗 [View on LinkedIn](https://linkedin.com/in/kunal-sahu-7688ba1b0)  
+### 🔗 Explore the Series
+
+- 💻 **GitHub Repository:** [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)
+- 💼 **LinkedIn Posts:** [Kunal Sahu](https://linkedin.com/in/kunal-sahu-7688ba1b0)
 
 ---
 
 ## ✨ Quote of the Day
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
 </p>
 
 ---
 
-<p align="center">⚡ Passionate about building scalable solutions and always open to collaborations 🤝</p>
+## 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  💼 Open to Full-Stack Development opportunities, Freelance projects, and Open Source collaborations.
+</p>
+
+<p align="center">
+  If you have an interesting idea or project, let's build something amazing together! 🚀
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Opportunities-success?style=for-the-badge" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kunalsahuji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+
+<p align="center">
+  <strong>Thanks for visiting my profile! ⭐</strong>
 </p>
