@@ -22,22 +22,6 @@ Passionate about writing clean, maintainable code, solving real-world business p
 - 🌐 Experienced in **VPS deployment**, **Nginx**, **PM2**, **SSL**, **Hostinger**, **GoDaddy**, **Render**, and **Vercel**.
 - 🤝 Worked directly with clients to gather requirements, plan features, and deliver business-focused solutions.
 - ⚡ Passionate about building secure, scalable, and high-performance full-stack applications.
-  
----
-
-## 🎓 Education
-
-### 🎓 Bachelor of Technology (B.Tech) – Information Technology
-**Oriental College of Technology, Bhopal**  
-📅 **2018 – 2022** | **CGPA:** 8.17
-
----
-
-### 💻 MERN Full Stack Development
-**Sheryians Coding School, Bhopal**  
-📅 **2023 – 2024**
-
-Completed comprehensive training in the MERN stack, focusing on full-stack application development, REST APIs, authentication, database design, and real-world project implementation.
 
 ---
 
@@ -213,41 +197,84 @@ Developed a photo-sharing application using React, TypeScript, Firebase, and Upl
 
 ---
 
-## 🧾 Certificates
-- 🥇 [MERN Stack Certificate](https://drive.google.com/file/d/1Qiny9sW_H2U8yt3MjdpjmJXIDPbGFpre/view?usp=drivesdk)  
-- 🧠 [C/C++ Certificate](https://drive.google.com/file/d/1_2OXIITQvJlkNKc3N6Gi9hqlFPO-gsuz/view?usp=drivesdk)  
+## 🏆 Certifications
+
+- 🥇 **MERN Full Stack Development**  
+  📜 **Sheryians Coding School**  
+  🔗 [View Certificate](https://drive.google.com/file/d/1Qiny9sW_H2U8yt3MjdpjmJXIDPbGFpre/view?usp=drivesdk)
+
+- 💻 **C & C++ Programming**  
+  📜 **Programming Certification**  
+  🔗 [View Certificate](https://drive.google.com/file/d/1_2OXIITQvJlkNKc3N6Gi9hqlFPO-gsuz/view?usp=drivesdk)
+---
+
+## 🎓 Education
+
+### 🎓 Bachelor of Technology (B.Tech) – Information Technology
+**Oriental College of Technology, Bhopal**  
+📅 **2018 – 2022** | **CGPA:** 8.17
 
 ---
 
-## 📫 Connect With Me  
+### 💻 MERN Full Stack Development
+**Sheryians Coding School, Bhopal**  
+📅 **2023 – 2024**
+
+Completed comprehensive training in the MERN stack, focusing on full-stack application development, REST APIs, authentication, database design, and real-world project implementation.
+
+--- 
+
+## 📫 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/kunal-sahu-7688ba1b0/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-  <a href="https://github.com/Kunalsahuji"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
-  <a href="https://www.instagram.com/kunal_babita_sahu/"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
-  <a href="mailto:ksahu0103@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/></a>
-  <a href="https://drive.google.com/file/d/10r8rQcWWgbV1B5jGiLELiaPkIL3w8c5w/view?usp=sharing"><img src="https://img.icons8.com/fluency/48/resume.png" width="48"/></a>
-  <a href="https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4"><img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="48"/></a>
-</p>  
+  <a href="https://www.linkedin.com/in/kunal-sahu-7688ba1b0">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/Kunalsahuji">
+    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.instagram.com/kunal_babita_sahu/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/>
+  </a>
+
+  <a href="mailto:ksahu0103@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" alt="Email"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/10r8rQcWWgbV1B5jGiLELiaPkIL3w8c5w/view?usp=sharing">
+    <img src="https://img.icons8.com/color/48/google-drive--v2.png" width="48" alt="Resume"/>
+  </a>
+
+  <a href="https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4">
+    <img src="https://skillicons.dev/icons?i=notion" width="48" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## ⚒️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,vscode,render,figma,docker,postman,linux,azure,python,c,cpp,cs,mysql" />
-</p>  
+## ⚒️ Technologies & Tools
 
 <p align="center">
-  <!-- Extra tools not available in skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,tailwind,redux,git,github,vscode,postman,linux,nginx,docker,vercel,figma,python,mysql,c,cpp" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge&logo=phonepe&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayU-6E2C91?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-0C73FE?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multer.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Uploadcare-FF6B6B?style=for-the-badge&logo=uploadcare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/IIS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>  
+</p>
 
 ---
 
