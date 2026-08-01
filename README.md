@@ -277,28 +277,35 @@ Completed comprehensive training in the MERN stack, focusing on full-stack appli
 </p>
 
 ---
+## 📊 GitHub Analytics
 
-## 🔝 Top Contributed Repos
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kunalsahuji&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repos"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Kunalsahuji&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalsahuji&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunalsahuji&show_icons=true&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalsahuji&" alt="GitHub Streak" /</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalsahuji&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph"/>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalsahuji&theme=react-dark&bg_color=0D1117&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
-
 ---
 
-## 🏆 GitHub Trophies
+## 🔝 Top Open Source Contributions
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kunalsahuji&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+  <img alt="github_contribution" src="https://github-contributor-stats.vercel.app/api?username=Kunalsahuji&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
 </p>
 
 ---
