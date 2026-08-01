@@ -277,36 +277,35 @@ Completed comprehensive training in the MERN stack, focusing on full-stack appli
 </p>
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kunalsahuji&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Kunalsahuji&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalsahuji&theme=react-dark&hide_border=true&bg_color=0D1117"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</p>
 ---
 
-## 🔝 Top Open Source Contributions
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img alt="github_contribution" src="https://github-contributor-stats.vercel.app/api?username=Kunalsahuji&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunalsahuji&theme=tokyonight" width="100%" alt="Profile Details"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kunalsahuji&theme=tokyonight" width="49%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Kunalsahuji&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kunalsahuji&theme=tokyonight" width="49%" alt="Repositories Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kunalsahuji&theme=tokyonight" width="49%" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalsahuji&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kunalsahuji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12" alt="GitHub Trophies"/>
+</p>
 ---
 
 ## 📢 #100DaysOfMERN  
