@@ -316,7 +316,7 @@ A portfolio-style landing page featuring engaging animations and responsive desi
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kunal-sahu-7688ba1b0">
+  <a href="https://www.linkedin.com/in/kunalsahuji">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
   </a>
   &nbsp;
