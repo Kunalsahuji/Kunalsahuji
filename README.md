@@ -113,11 +113,11 @@ Worked on production MERN applications, contributing to full-stack development, 
 
 📍 Bhopal, Madhya Pradesh | 🗓️ July 2024 – October 2024
 
-- Developed backend modules using **ASP.NET MVC** and **C#**.
-- Worked with **SQL Server**, authentication systems, and enterprise applications.
-- Contributed to financial software solutions in a collaborative development environment.
+- Developed backend systems using **MVC architecture and SQL**, implementing secure authentication mechanisms such as **JWT and Single Sign-On (SSO)**.
+- Built and maintained **frontend components** and integrated them with backend services and database operations.
+- Supported application deployment, server configuration, and application integration using **IIS**.
 
-**Technologies:** ASP.NET MVC • C# • SQL Server • IIS • Azure AD
+**Technologies:** MVC Architecture • SQL • JWT • SSO • Frontend Development • IIS
 
 ---
 
