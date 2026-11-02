@@ -79,7 +79,7 @@ I enjoy turning business requirements into reliable software solutions, writing 
 
 ## 🚀 Appzeto Technologies | Full Stack Developer
 
-📍 Indore, Madhya Pradesh | 🗓️ August 2025 – July 2026
+📍 Indore, Madhya Pradesh | 🗓️ July 2025 – August 2026
 
 Worked on production MERN applications, contributing to full-stack development, third-party integrations, client requirements, and application deployment.
 
@@ -103,7 +103,7 @@ Worked on production MERN applications, contributing to full-stack development, 
 
 ## 💼 Lollarena Services | Web Developer Intern
 
-📍 Bhopal, Madhya Pradesh | 🗓️ May 2025 – July 2025
+📍 Bhopal, Madhya Pradesh | 🗓️ March 2025 – May 2025
 
 - Developed and customized responsive websites using HTML, CSS, JavaScript, and WordPress.
 - Built UI components using Elementor.
@@ -129,34 +129,9 @@ Worked on production MERN applications, contributing to full-stack development, 
 
 ---
 
-## 💼 Sheryians Coding School | MERN Full Stack Web Development Trainee
-
-📍 Bhopal, Madhya Pradesh | 🗓️ September 2023 – June 2024
-
-- Completed intensive training covering in-depth knowledge of full-stack architecture.
-- Built dynamic web applications handling complex frontend states and backend database operations.
-
-**Technologies:** HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • React.js • Redux • Firebase
-
-🔗 *[View Certificate of Excellence](add-url-here)*
-
----
-
-## 💼 InternPe | Web Development Intern
-
-📍 Jaipur, Rajasthan (Remote) | 🗓️ March 2023 – April 2023
-
-- Completed a structured web development internship program focusing on building practical coding skills and responsive interfaces.
-
-**Technologies:** Web Development • HTML • CSS • JavaScript
-
-🔗 *[View Offer Letter & Completion Certificate](add-url-here)*
-
----
-
 ## 💼 CoreCard Software India Pvt. Ltd. | Software Developer Intern
 
-📍 Bhopal, Madhya Pradesh | 🗓️ July 2024 – October 2024
+📍 Bhopal, Madhya Pradesh | 🗓️ July 2024 – October 2024.
 
 - Developed backend systems using **MVC architecture and SQL**, implementing secure authentication mechanisms such as **JWT and Single Sign-On (SSO)**.
 - Built and maintained **frontend components** and integrated them with backend services and database operations.
@@ -168,9 +143,34 @@ Worked on production MERN applications, contributing to full-stack development, 
 
 ---
 
+## 💼 Sheryians Coding School | MERN Full Stack Web Development Training
+
+📍 Bhopal, Madhya Pradesh | 🗓️ September 2023 – June 2024.
+
+- Completed intensive training covering in-depth knowledge of full-stack architecture.
+- Built dynamic web applications handling complex frontend states and backend database operations.
+
+**Technologies:** HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • React.js • Redux • Firebase.
+
+🔗 *[View Certificate of Excellence](add-url-here)*
+
+---
+
+## 💼 InternPe | Web Development Intern
+
+📍 Jaipur, Rajasthan (Remote) | 🗓️ March 2023 – April 2023.
+
+- Completed a structured web development internship program focusing on building practical coding skills and responsive interfaces.
+
+**Technologies:** Web Development • HTML • CSS • JavaScript
+
+🔗 *[View Offer Letter & Completion Certificate](add-url-here)*
+
+---
+
 ## 💼 Tudip Technologies Pvt. Ltd. | Associate Software Developer
 
-📍 Pune, Maharashtra | 🗓️ September 2022 – December 2022
+📍 Pune, Maharashtra | 🗓️ September 2022 – December 2022.
 
 - Developed responsive user interfaces using **React.js**.
 - Integrated REST APIs and implemented reusable UI components.
@@ -185,14 +185,13 @@ Worked on production MERN applications, contributing to full-stack development, 
 
 ## 💼 YCT Academy | Python Programming Intern
 
-📍 Bhopal, Madhya Pradesh | 🗓️ February 2021 – March 2021
+📍 Bhopal, Madhya Pradesh | 🗓️ February 2021 – March 2021.
 
 - Completed a specialized online internship course and project work focusing on Python programming under developer guidance.
 
-**Technologies:** Python • Software Development
+**Technologies:** Python • Software Development.
 
 🔗 *[View Internship Certificate](add-url-here)*
-
 
 ---
 
