@@ -61,7 +61,7 @@ I enjoy turning business requirements into reliable software solutions, writing 
 
 # 💼 Professional Experience
 
-## 🚀 D-Table Analytics | MERN Full Stack Developer
+## 🚀 D-Table Analytics | Full Stack Developer
 
 📍 Bhopal, Madhya Pradesh | 🗓️ October 2026 – Present
 
@@ -73,11 +73,13 @@ I enjoy turning business requirements into reliable software solutions, writing 
 
 **Technologies:** React.js • Node.js • Express.js • MongoDB • JavaScript • REST APIs • Git • GitHub
 
+🔗 *[View Offer Letter / Appointment Letter](add-url-here)*
+
 ---
 
 ## 🚀 Appzeto Technologies | Full Stack Developer
 
-📍 Indore, Madhya Pradesh | 🗓️ July 2025 – August 2026
+📍 Indore, Madhya Pradesh | 🗓️ August 2025 – July 2026
 
 Worked on production MERN applications, contributing to full-stack development, third-party integrations, client requirements, and application deployment.
 
@@ -95,6 +97,8 @@ Worked on production MERN applications, contributing to full-stack development, 
 
 **Technologies:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Redux Toolkit • JWT • Nginx • PM2 • Linux • Git • PhonePe • PayU • Razorpay
 
+🔗 *[View Experience & Reliving Letter](add-url-here)*
+
 ---
 
 ## 💼 Lollarena Services | Web Developer Intern
@@ -106,6 +110,47 @@ Worked on production MERN applications, contributing to full-stack development, 
 - Customized themes and plugins according to website requirements.
 
 **Technologies:** HTML • CSS • JavaScript • WordPress • Elementor
+
+🔗 *[View Internship Certificate](add-url-here)*
+
+---
+
+## 💼 Zidio Development | Web Development Intern
+
+📍 Bengaluru, Karnataka (Remote) | 🗓️ May 2025 – June 2025
+
+- Assisted in the development and implementation of software solutions.
+- Worked with team members to design, code, and test new features.
+- Participated in project planning, reviews, and technical research.
+
+**Technologies:** Web Development • Full Stack • Problem Solving
+
+🔗 *[View Offer Letter](add-url-here)*
+
+---
+
+## 💼 Sheryians Coding School | MERN Full Stack Web Development Trainee
+
+📍 Bhopal, Madhya Pradesh | 🗓️ September 2023 – June 2024
+
+- Completed intensive training covering in-depth knowledge of full-stack architecture.
+- Built dynamic web applications handling complex frontend states and backend database operations.
+
+**Technologies:** HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • React.js • Redux • Firebase
+
+🔗 *[View Certificate of Excellence](add-url-here)*
+
+---
+
+## 💼 InternPe | Web Development Intern
+
+📍 Jaipur, Rajasthan (Remote) | 🗓️ March 2023 – April 2023
+
+- Completed a structured web development internship program focusing on building practical coding skills and responsive interfaces.
+
+**Technologies:** Web Development • HTML • CSS • JavaScript
+
+🔗 *[View Offer Letter & Completion Certificate](add-url-here)*
 
 ---
 
@@ -119,6 +164,8 @@ Worked on production MERN applications, contributing to full-stack development, 
 
 **Technologies:** MVC Architecture • SQL • JWT • SSO • Frontend Development • IIS
 
+🔗 *[View Internship Certificate](add-url-here)*
+
 ---
 
 ## 💼 Tudip Technologies Pvt. Ltd. | Associate Software Developer
@@ -131,6 +178,21 @@ Worked on production MERN applications, contributing to full-stack development, 
 - Collaborated with the development team to deliver application features.
 
 **Technologies:** React.js • JavaScript • HTML • CSS • REST APIs • Git
+
+🔗 *[View Offer Letter](add-url-here)*
+
+---
+
+## 💼 YCT Academy | Python Programming Intern
+
+📍 Bhopal, Madhya Pradesh | 🗓️ February 2021 – March 2021
+
+- Completed a specialized online internship course and project work focusing on Python programming under developer guidance.
+
+**Technologies:** Python • Software Development
+
+🔗 *[View Internship Certificate](add-url-here)*
+
 
 ---
 
