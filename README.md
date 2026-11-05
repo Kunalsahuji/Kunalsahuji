@@ -101,9 +101,23 @@ Worked on production MERN applications, contributing to full-stack development, 
 
 ---
 
+## 💼 Zidio Development | Web Development Intern
+
+📍 Bengaluru, Karnataka (Remote) | 🗓️ April 2025 – May 2025
+
+- Assisted in the development and implementation of software solutions.
+- Worked with team members to design, code, and test new features.
+- Participated in project planning, reviews, and technical research.
+
+**Technologies:** Web Development • Full Stack • Problem Solving
+
+🔗 *[View Offer Letter](add-url-here)*
+
+---
+
 ## 💼 Lollarena Services | Web Developer Intern
 
-📍 Bhopal, Madhya Pradesh | 🗓️ March 2025 – May 2025
+📍 Bhopal, Madhya Pradesh | 🗓️ Jan 2025 – March 2025
 
 - Developed and customized responsive websites using HTML, CSS, JavaScript, and WordPress.
 - Built UI components using Elementor.
@@ -115,17 +129,6 @@ Worked on production MERN applications, contributing to full-stack development, 
 
 ---
 
-## 💼 Zidio Development | Web Development Intern
-
-📍 Bengaluru, Karnataka (Remote) | 🗓️ May 2025 – June 2025
-
-- Assisted in the development and implementation of software solutions.
-- Worked with team members to design, code, and test new features.
-- Participated in project planning, reviews, and technical research.
-
-**Technologies:** Web Development • Full Stack • Problem Solving
-
-🔗 *[View Offer Letter](add-url-here)*
 
 ---
 
