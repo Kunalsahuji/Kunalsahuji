@@ -33,7 +33,7 @@ I enjoy turning business requirements into reliable software solutions, writing 
 # 🚀 Professional Snapshot
 
 - 💼 Currently working as a **MERN Full Stack Developer at D-Table Analytics**
-- ✅ Previously worked as a **Full Stack Developer at Appzeto Technologies**
+- ✅ Previously worked as a **MERN Full Stack Developer at Appzeto Technologies**
 - 🚀 Experience building and deploying production-grade MERN applications
 - 🌐 Experienced in VPS deployment using **Hostinger, Nginx, PM2, SSL, and GoDaddy**
 - 💳 Integrated payment gateways including **PhonePe, PayU, and Razorpay**
@@ -61,7 +61,7 @@ I enjoy turning business requirements into reliable software solutions, writing 
 
 # 💼 Professional Experience
 
-## 🚀 D-Table Analytics | Full Stack Developer
+## 🚀 D-Table Analytics | MERN Full Stack Developer
 
 📍 Bhopal, Madhya Pradesh | 🗓️ October 2026 – Present
 
@@ -77,7 +77,7 @@ I enjoy turning business requirements into reliable software solutions, writing 
 
 ---
 
-## 🚀 Appzeto Technologies | Full Stack Developer
+## 🚀 Appzeto Technologies | MERN Full Stack Developer
 
 📍 Indore, Madhya Pradesh | 🗓️ July 2025 – August 2026
 
